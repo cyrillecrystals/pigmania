@@ -14,11 +14,11 @@ body {
 }
 
 input[type=text], select {
-  color: yellow;
+  color: purple;
   padding: 10px 16px;
   margin: 8px 0;
   display: inline-block;
-  border: 1px solid white;
+  border: 1px solid limegreen;
   box-sizing: border-box;
   background-color: black;
 }
@@ -29,7 +29,7 @@ input[type=text], select {
   font-size: 18px;
   padding: 12px 20px;
   margin: 8px 0;
-  border-style: outset;
+  border: 1px solid red;
   border-radius: 4px;
   cursor: pointer;
   margin-left: 30px;

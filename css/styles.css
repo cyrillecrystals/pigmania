@@ -1,5 +1,7 @@
 body {
+  background-image: url("../img/thepig.jpg");
   font-family: 'Clarendon', Open Sans;
+  color: white;
 }
 
 .player-console {
@@ -12,10 +14,11 @@ body {
 }
 
 input[type=text], select {
+  color: yellow;
   padding: 10px 16px;
   margin: 8px 0;
   display: inline-block;
-  border: 1px solid red;
+  border: 1px solid white;
   box-sizing: border-box;
-  background-color: skyblue;
+  background-color: black;
 }

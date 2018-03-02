@@ -22,3 +22,15 @@ input[type=text], select {
   box-sizing: border-box;
   background-color: black;
 }
+
+.btn {
+  background-color: #3232ff;
+  color: white;
+  font-size: 18px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  border-style: groove;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 30px;
+}
